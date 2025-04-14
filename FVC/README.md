@@ -69,11 +69,4 @@ As our training strategy is updated, the evaluation results will be better than 
 ## Citation
 If you find this paper useful, please cite:
 ```
-@inproceedings{hu2021fvc,
-  title={FVC: A new framework towards deep video compression in feature space},
-  author={Hu, Zhihao and Lu, Guo and Xu, Dong},
-  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
-  pages={1502--1511},
-  year={2021}
-}
 ```
